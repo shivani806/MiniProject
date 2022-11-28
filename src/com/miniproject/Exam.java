@@ -28,7 +28,7 @@ public class Exam {
 		try {
 		//Class.forName("com.mysql.cj.jdbc.Driver");
 		
-		//Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/project", "root", "shivani806");
+		//Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/project", "root", "12334");
 		
 		DriverCommen di= new DriverCommen();
 		Connection connection = di.driverload();
