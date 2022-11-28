@@ -15,7 +15,7 @@ public class Sortingresult {
             //  Class.forName("com.mysql.cj.jdbc.Driver");
 		
 		//getconnection
-		//Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/project","root","shivani806");
+		//Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/project","root","12344");
 		
 		DriverCommen di= new DriverCommen();
 		Connection connection = di.driverload();
